@@ -1,0 +1,13 @@
+{
+  "name": "render-hydratable",
+  "version": "0.0.1",
+  "description": "Toolbox to render hydratable web components in multiple frameworks",
+  "main": "index.js",
+  "author": "Ezequiel Schwartzman (Zequez) [zequez@gmail.com]",
+  "license": "MIT",
+  "dependencies": {
+    "htm": "^3.0.4",
+    "nunjucks": "^3.2.2",
+    "preact": "^10.4.8"
+  }
+}
