@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "Ezequiel Schwartzman (Zequez) [zequez@gmail.com]",
   "license": "MIT",
+  "homepage": "https://github.com/Zequez/render-hydratable#readme",
+  "bugs": {
+    "url": "https://github.com/Zequez/render-hydratable#issues"
+  },
+  "repository": "github:Zequez/render-hydratable",
   "dependencies": {
     "htm": "^3.0.4",
     "nunjucks": "^3.2.2",

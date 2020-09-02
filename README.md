@@ -2,7 +2,7 @@
 
 This is a work in progress and it's practially verbatim extracted from,
 a project I was doing, not really production-ready, and the API is very confusing,
-use at your own risk.
+use at your own risk. It's also completely untested.
 
 My motivation to make this library was to be able to use any kind of
 component from any framework on an Eleventy site with static rendering and
