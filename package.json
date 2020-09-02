@@ -1,6 +1,6 @@
 {
   "name": "render-hydratable",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Toolbox to render hydratable web components in multiple frameworks",
   "main": "index.js",
   "author": "Ezequiel Schwartzman (Zequez) [zequez@gmail.com]",
