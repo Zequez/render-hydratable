@@ -1,6 +1,6 @@
 # Render Hydratable
 
-This is a work in progress and it's practially verbatim extracted from,
+This is a work in progress and it's practially verbatim extracted from
 a project I was doing, not really production-ready, and the API is very confusing,
 use at your own risk. It's also completely untested.
 
@@ -19,17 +19,6 @@ repository in the near future.
 
 ```
 $ yarn add render-hydratable
-```
-
-## On .eleventy.js as a shortcode
-
-```javascript
-const renderHydratable = require('render-hydratable/lib/render-hydratable')
-
-config.addShortcode(
-    'renderHydratable',
-    renderHydratable([`${__dirname}/src/components`])
-  )
 ```
 
 ## Usage
